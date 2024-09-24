@@ -40,9 +40,10 @@ yarn install
 
 cd TST-BOT
 
-npm start```
+npm start
+```
 
-### si tu veux déployé le bot sans télécharger le fichier
+### si tu veux déployé le bot sais télécharger le fichier Voici les commandes 
 
 ```atp update
 
@@ -66,13 +67,16 @@ pkg install yarn
 
 termux-setup-storage
 
-cd /storage/emulated/0/Download/TST-BOT
+git clone https//github.com/kawaki-227/kawaki227
+
+cd kawaki227
 
 yarn install
 
-cd TST-BOT
+npm start
+```
 
-npm start```
+# merci 
 
 
-<a><img src='https://i.imgur.com/P4xH5Bk.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
